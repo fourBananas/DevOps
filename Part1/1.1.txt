@@ -1,0 +1,5 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                      PORTS               NAMES
+d6b954492a6c        nginx               "nginx -g 'daemon of…"   19 minutes ago      Exited (0) 16 minutes ago                       festive_liskov
+9bd109db5260        nginx               "nginx -g 'daemon of…"   19 minutes ago      Up 19 minutes               80/tcp              vibrant_curran
+995f62b6a37c        nginx               "nginx -g 'daemon of…"   20 minutes ago      Exited (0) 16 minutes ago                       cool_shamir
+
