@@ -1,0 +1,8 @@
+docker images
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+nginx               latest              6678c7c2e56c        3 weeks ago         127MB
+hello-world         latest              fce289e99eb9        14 months ago       1.84kB
+
+docker ps -a
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+
