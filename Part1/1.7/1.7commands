@@ -1,0 +1,3 @@
+docker build -t curler .
+docker run --name curler -it curler
+
